@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Coroutines, Flow</string>
+    <string name="number">3.14</string>
+    <string name="start">Start</string>
+    <string name="Stop">Stop</string>
+    <string name="restart">Restart</string>
+</resources>
